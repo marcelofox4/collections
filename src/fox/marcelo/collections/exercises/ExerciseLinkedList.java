@@ -1,4 +1,4 @@
-package fox.marcelo.collections.list;
+package fox.marcelo.collections.exercises;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
