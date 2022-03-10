@@ -54,7 +54,6 @@ public class ExampleListSort {
         catsList.sort((new NameColorAgeComparator()));
         System.out.println(catsList);
 
-
     }
 }
 
